@@ -1,11 +1,10 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    "prize": [
+        0: "discount 10%",
+        1: "coupon for 200p",
+        2: "coupon for 400p",
+        3: "coupon for toothbrush head", 
+        4: "coupon for toothbrush", 
+        5: "coupon for 1000p"
+    ]
 }
