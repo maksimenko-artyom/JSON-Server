@@ -1,28 +1,28 @@
 {
     "prize": [
         {
-            id: 0,
-            title: "discount 10%"
+            "id": 0,
+            "title": "discount 10%"
         },
         {
-            id: 1,
-            title: "coupon for 200p"
+            "id": 1,
+            "title": "coupon for 200p"
         },
         {
-            id: 2,
-            title: "coupon for 400p"
+            "id": 2,
+            "title": "coupon for 400p"
         },
         {
-            id: 3,
-            title: "coupon for toothbrush head"
+            "id": 3,
+            "title": "coupon for toothbrush head"
         },
         {
-            id: 4,
-            title: "coupon for toothbrush"
+            "id": 4,
+            "title": "coupon for toothbrush"
         },
         {
-            id: 5,
-            title: "coupon for 1000p"
+            "id": 5,
+            "title": "coupon for 1000p"
         }
     ]
 }
