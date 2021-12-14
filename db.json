@@ -2,27 +2,35 @@
     "prize": [
         {
             "id": 0,
-            "title": "discount10"
-        },
-        {
-            "id": 1,
             "title": "coupon200"
         },
         {
+            "id": 1,
+            "title": "coupon5000"
+        },
+        {
             "id": 2,
-            "title": "coupon400"
+            "title": "couponPampers"
         },
         {
             "id": 3,
-            "title": "couponToothbrushHead"
+            "title": "couponStationaryBlenderBosch"
         },
         {
             "id": 4,
-            "title": "couponToothbrush"
+            "title": "couponHandBlenderBosch1"
         },
         {
             "id": 5,
-            "title": "coupon1000"
+            "title": "couponHandBlenderBosch2"
+        },
+        {
+            "id": 6,
+            "title": "couponKettleBosch"
+        },
+        {
+            "id": 7,
+            "title": "couponCleanerBosch"
         }
     ]
 }
